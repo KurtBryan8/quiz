@@ -1,0 +1,21 @@
+
+Quiz system development
+Testing: should commence on next week.
+
+Functionalities:
+1. Has 3 levels such as 1, 2 and 3.
+2. There will be Timer per question/item.
+3. Remove players - automatic when they got the wrong answer.
+4. With prompt or black screen script in every terminated player.
+5. Numbers of questions is as follows:
+   a. Easy round - 10 questions
+   b. Intermidaite round - 10 questions
+   c. Hard round - 10 questions
+6. Ranking from 1-5 players with Specific names in Hard Level.
+7. Must have user and admin portal.
+8. Admin dashboard must shows on-time scores.
+9. On click multiple choice.
+10. Prior to the Hard level, there should be a form where it collects the real name of the players.
+
+
+
